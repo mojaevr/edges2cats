@@ -8,3 +8,6 @@ to use demo run in the terminal
 ```
 python catify.py
 ```
+# example
+![input](input.jpg)
+![output](output.jpg)
