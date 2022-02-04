@@ -6,5 +6,5 @@ original pictures: https://drive.google.com/file/d/19mtDOC_DupDWNPnkkjGYmqQud-9P
 # demo
 to use demo run
 ```
-python cat.py
+python catify.py
 ```
